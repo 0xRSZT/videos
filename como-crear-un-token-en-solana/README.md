@@ -164,10 +164,10 @@ git clone git@github.com:0xRSZT/videos.git
 cd como-crear-un-token-en-solana
 ```
 
-- Instalamos las dependencias de [npm](https://www.npmjs.com/) para este proyecto.
+- Instalamos las dependencias de [npm](https://www.npmjs.com/) para este proyecto con el flag `--legacy-peer-deps` para evitar [errores](https://stackoverflow.com/questions/66321327/npm-install-is-failing-could-not-resolve-dependency) por las dependencias de [Metaplex](https://developers.metaplex.com/).
 
 ```js
-npm install
+npm install --legacy-peer-deps
 ```
 
 - Nos aseguraremos de instalar la dependencia [ts-node](https://typestrong.org/ts-node/docs/installation) de forma **global** para evitar errores:
@@ -186,8 +186,22 @@ npm install -g ts-node
 ts-node mpl_metadata.ts
 ```
 
+## ¿Cuánto cuesta $RSZT?
+
+- Para darle un precio a nuestro token, necesitamos crear una pool con nuestros tokens y otra moneda como \$SOL o $USDC.
+
+- En este caso vamos a crear una [pool](https://app.meteora.ag/pools/HM4J2ce3CwtgZjs4nqbcfmt2ywrsn4DoJL9H46XbYbZ2) con **10.000 \$RSZT** y **2 $USDC** en el protocolo descentralizado [Meteora](https://app.meteora.ag/).
+
+- De esta forma definiremos el valor de 1 \$RSZT en **0.000181403 \$USDC**
+
+- Desde otra wallet, podemos [intercambiar](https://solscan.io/tx/5hhTUKVWCjdECgHps9aKNLaqK1HzMfot31pkatiGJ3JfugXycL7kqfwA26hJHeKZ7pkcLkZCPqmHMMS9Bet5jvoy) 1.000 \$RSZT para recibir 0.181403 \$USDC, es decir estaríamos **vendiendo**.
+
+- Además podríamos [añadir](https://solscan.io/tx/3feCehiFZNXegh3HEdaFYUedUxNHbyTjTQnr9EfhYHM4wb6SxaKXBS6qQAQhpVxFa7LABR5Pg6RZaiPvyAXRZrtN) más liquidez a la pool.
+
+- Por último, podemos ver el gráfico de precios en [birdeye.so](https://birdeye.so/token/EvwA4oHnxqFhAtmNXDxu1wWyzE2R8jesyERxyrzPfT1L?chain=solana) y las últimas [transacciones](https://birdeye.so/find-trades/EvwA4oHnxqFhAtmNXDxu1wWyzE2R8jesyERxyrzPfT1L?chain=solana).
+
 ---
 
-[https://app.meteora.ag/pools/HM4J2ce3CwtgZjs4nqbcfmt2ywrsn4DoJL9H46XbYbZ2](https://app.meteora.ag/pools/HM4J2ce3CwtgZjs4nqbcfmt2ywrsn4DoJL9H46XbYbZ2)
+## ⚠️ Aviso
 
-[https://birdeye.so/token/EvwA4oHnxqFhAtmNXDxu1wWyzE2R8jesyERxyrzPfT1L?chain=solana](https://birdeye.so/token/EvwA4oHnxqFhAtmNXDxu1wWyzE2R8jesyERxyrzPfT1L?chain=solana)
+Este token ha sido creado únicamente para mostrar cómo se hace. **NO tiene ningún valor y NO** recomiendo comprarlo con el fín de especular.

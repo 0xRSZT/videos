@@ -1,5 +1,9 @@
 # Cómo crear un token en Solana
 
+> Estas son las instrucciones en las que se basan este vídeo:
+
+[![Mira el video](https://img.youtube.com/vi/XVXRqEdtchs/hqdefault.jpg)](https://www.youtube.com/watch?v=XVXRqEdtchs)
+
 Lo primero que tenemos que entender es que no vamos a crear una **CRIPTOMONEDA**, vamos a crear un **TOKEN**. ¿Qué diferencia hay? Una criptomoneda es la moneda **NATIVA** de una **BLOCKCHAIN**, por ejemplo la criptomoneda de Ethereum es el **ETHER** _(\$ETH)_ y para Solana el $SOL pero sobre estas Blockchains podemos crear _tokens_ como vamos a hacer ahora.
 
 ## ¿Qué necesitamos?

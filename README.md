@@ -12,6 +12,10 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
 ## [🔷 ETHEREUM](https://www.youtube.com/playlist?list=PLJi6QLnj65CycC2jxQDn7ilxSo5qGF3N1)
 
+- ##### [CREA Y TESTEA SMART CONTRACTS CON TRUFFLE + GANACHE](/truffle-ganache/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=j1vkcTg0XFY)
+
 ### [🧑‍🚀 ETHERNAUT](https://www.youtube.com/playlist?list=PLJi6QLnj65CyND3C6Dv4mRYYv84acgu6c)
 
 - ##### Hello Ethernaut - HACKING DE SMART CONTRACTS

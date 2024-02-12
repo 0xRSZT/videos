@@ -2,11 +2,11 @@
 
 > Estas son las instrucciones en las que se basan este vídeo:
 
-<!-- <p align="center">
-  <a href="https://www.youtube.com/watch?v=XVXRqEdtchs">
-    <img src="https://img.youtube.com/vi/XVXRqEdtchs/hqdefault.jpg" alt="Link al video de Youtube">
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=j1vkcTg0XFY">
+    <img src="https://img.youtube.com/vi/j1vkcTg0XFY/hqdefault.jpg" alt="Link al video de Youtube">
   </a>
-</p> -->
+</p>
 
 ## Introducción
 

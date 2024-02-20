@@ -20,8 +20,10 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=GPtu2sfh1Q4)
 
-### [🧑‍🚀 ETHERNAUT](https://www.youtube.com/playlist?list=PLJi6QLnj65CyND3C6Dv4mRYYv84acgu6c)
+### [🧑‍🚀 ETHERNAUT](/ethernaut/)
 
-- ##### Hello Ethernaut - HACKING DE SMART CONTRACTS
+- [⚜️ Lista de reproducción](https://www.youtube.com/playlist?list=PLJi6QLnj65CyND3C6Dv4mRYYv84acgu6c)
+
+- ##### [Hello Ethernaut - HACKING DE SMART CONTRACTS](/ethernaut/00.%20Hello%20Ethernaut/)
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=YU-iNyvj6mA)

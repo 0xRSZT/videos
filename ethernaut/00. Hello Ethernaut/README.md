@@ -1,5 +1,13 @@
 # Hello Ethernaut
 
+> Estas son las instrucciones en las que se basan este vídeo:
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=YU-iNyvj6mA">
+    <img src="https://img.youtube.com/vi/YU-iNyvj6mA/hqdefault.jpg" alt="Link al video de Youtube">
+  </a>
+</p>
+
 En este primer nivel aprenderemos cómo funciona la plataforma. Lo primero que tendremos que hacer será crear una _wallet_ de [Metamask](https://metamask.io/) en el caso de que no tengamos una aún para poder conectarnos al sitio web y luego abrir la consola del navegador.
 
 En esta consola podemos utilizar funciones como `player` para ver la dirección de nuestra _wallet_ o `await getBalance(player)` para ver la cantidad de fondos que tenemos.

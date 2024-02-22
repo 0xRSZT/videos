@@ -20,6 +20,10 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=GPtu2sfh1Q4)
 
+- ##### [¿Qué es HARDHAT y por qué deberías utilizarlo?](/hardhat/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=)
+
 ### [🧑‍🚀 ETHERNAUT](/ethernaut/)
 
 - [⚜️ Lista de reproducción](https://www.youtube.com/playlist?list=PLJi6QLnj65CyND3C6Dv4mRYYv84acgu6c)

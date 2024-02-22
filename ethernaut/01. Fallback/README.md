@@ -1,12 +1,12 @@
 # Fallback
 
-<!-- > Estas son las instrucciones en las que se basan este vídeo:
+> Estas son las instrucciones en las que se basan este vídeo:
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YU-iNyvj6mA">
-    <img src="https://img.youtube.com/vi/YU-iNyvj6mA/hqdefault.jpg" alt="Link al video de Youtube">
+  <a href="https://www.youtube.com/watch?v=k3XcapaUyFg">
+    <img src="https://img.youtube.com/vi/k3XcapaUyFg/hqdefault.jpg" alt="Link al video de Youtube">
   </a>
-</p> -->
+</p>
 
 Los objetivos son convertirse en el **dueño** del contrato y **reducir su balance a cero**, es decir robar sus fondos. Para empezar, vamos a crear una nueva instancia de este contrato en la red de pruebas Sepolia.
 

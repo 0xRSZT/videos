@@ -24,6 +24,10 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
 - [⚜️ Lista de reproducción](https://www.youtube.com/playlist?list=PLJi6QLnj65CyND3C6Dv4mRYYv84acgu6c)
 
-- ##### [Hello Ethernaut - HACKING DE SMART CONTRACTS](/ethernaut/00.%20Hello%20Ethernaut/)
+- ##### [Hello Ethernaut - HACKING DE SMART CONTRACTS EN ETHEREUM](/ethernaut/00.%20Hello%20Ethernaut/)
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=YU-iNyvj6mA)
+
+- ##### [Fallback - ETHERNAUT NIVEL 1 | HACKING DE SMART CONTRACTS EN ETHEREUM](/ethernaut/01.%20Fallback/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=k3XcapaUyFg)

@@ -22,7 +22,7 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
 - ##### [¿Qué es HARDHAT y por qué deberías utilizarlo?](/hardhat/)
 
-  - [📺 Vídeo](https://www.youtube.com/watch?v=)
+  - [📺 Vídeo](https://www.youtube.com/watch?v=sFnoDAWJ9oY)
 
 ### [🧑‍🚀 ETHERNAUT](/ethernaut/)
 
@@ -35,3 +35,7 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 - ##### [Fallback - ETHERNAUT NIVEL 1 | HACKING DE SMART CONTRACTS EN ETHEREUM](/ethernaut/01.%20Fallback/)
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=k3XcapaUyFg)
+
+- ##### [Fallout - ETHERNAUT NIVEL 2 | HACKING DE SMART CONTRACTS EN ETHEREUM](/ethernaut/02.%20Fallout/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=8QaVQq59cN4)

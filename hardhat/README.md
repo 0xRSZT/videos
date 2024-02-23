@@ -1,12 +1,12 @@
 # HardHat
 
-<!-- > Estas son las instrucciones en las que se basan este vídeo:
+> Estas son las instrucciones en las que se basan este vídeo:
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YU-iNyvj6mA">
-    <img src="https://img.youtube.com/vi/YU-iNyvj6mA/hqdefault.jpg" alt="Link al video de Youtube">
+  <a href="https://www.youtube.com/watch?v=sFnoDAWJ9oY">
+    <img src="https://img.youtube.com/vi/sFnoDAWJ9oY/hqdefault.jpg" alt="Link al video de Youtube">
   </a>
-</p> -->
+</p>
 
 [HardHat](https://hardhat.org/) es un entorno de desarrollo para _Ethereum_. Tiene diferentes componentes que nos permite editar, compilar, depurar y desplegar nuestros _Smart Contracts_ y aplicaciones descentralizadas.
 

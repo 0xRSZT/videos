@@ -24,6 +24,10 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=sFnoDAWJ9oY)
 
+- ##### [5 Herramientas que NECESITAS para el DESARROLLO BLOCKCHAIN](/5-herramientas-necesarias/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=wZu1gKwz8V8)
+
 ### [🧑‍🚀 ETHERNAUT](/ethernaut/)
 
 - [⚜️ Lista de reproducción](https://www.youtube.com/playlist?list=PLJi6QLnj65CyND3C6Dv4mRYYv84acgu6c)

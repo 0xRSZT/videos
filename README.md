@@ -43,3 +43,11 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 - ##### [Fallout - ETHERNAUT NIVEL 2 | HACKING DE SMART CONTRACTS EN ETHEREUM](/ethernaut/02.%20Fallout/)
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=8QaVQq59cN4)
+
+## [⛓️ DESARROLLO BLOCKCHAIN](https://www.youtube.com/playlist?list=PLJi6QLnj65Cz1a8XZ_N3XcUBZZagNNqku)
+
+- ##### [💥¡Necesitas Conocer HYPERLEDGER! | BLOCKCHAIN PARA EMPRESAS](/hyperledger/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=-Jf7LdgzX6s)
+
+---

@@ -28,6 +28,10 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=wZu1gKwz8V8)
 
+- ##### [🪙 Cómo crear un TOKEN ERC-20 en ETHEREUM DESDE CERO](/como-crear-un-token-en-ethereum/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=VRQEfDNXTqI)
+
 ### [🧑‍🚀 ETHERNAUT](/ethernaut/)
 
 - [⚜️ Lista de reproducción](https://www.youtube.com/playlist?list=PLJi6QLnj65CyND3C6Dv4mRYYv84acgu6c)

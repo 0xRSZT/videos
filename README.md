@@ -54,4 +54,8 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=-Jf7LdgzX6s)
 
+- ##### [🚀Despliega HARDHAT y BLOCKSCOUT en DOCKER](/docker/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=WfnQ3i8emDY)
+
 ---

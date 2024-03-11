@@ -3,8 +3,8 @@
 > Estas son las instrucciones en las que se basan este vídeo:
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=WfnQ3i8emDY">
-    <img src="https://img.youtube.com/vi/WfnQ3i8emDY/hqdefault.jpg" alt="Link al video de Youtube">
+  <a href="https://www.youtube.com/watch?v=dLhxR6pMkdo">
+    <img src="https://img.youtube.com/vi/dLhxR6pMkdo/hqdefault.jpg" alt="Link al video de Youtube">
   </a>
 </p>
 

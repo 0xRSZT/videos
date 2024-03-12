@@ -32,6 +32,10 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=VRQEfDNXTqI)
 
+- ##### [🛠️ ¿Qué es FOUNDRY? | Cómo usar FORGE, CAST y ANVIL](/foundry/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=)
+
 ### [🧑‍🚀 ETHERNAUT](/ethernaut/)
 
 - [⚜️ Lista de reproducción](https://www.youtube.com/playlist?list=PLJi6QLnj65CyND3C6Dv4mRYYv84acgu6c)

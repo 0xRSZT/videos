@@ -52,6 +52,10 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=8QaVQq59cN4)
 
+- ##### [Coin Flip - ETHERNAUT NIVEL 3 | HACKING DE SMART CONTRACTS EN ETHEREUM](/ethernaut/03.%20Coin%20Flip/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=rAgEkEax7ec)
+
 ---
 
 ## [⛓️ DESARROLLO BLOCKCHAIN](https://www.youtube.com/playlist?list=PLJi6QLnj65Cz1a8XZ_N3XcUBZZagNNqku)

@@ -1,12 +1,14 @@
 # Foundry
 
-<!-- > Estas son las instrucciones en las que se basan este vídeo:
+> Estas son las instrucciones en las que se basan este vídeo:
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=sFnoDAWJ9oY">
-    <img src="https://img.youtube.com/vi/sFnoDAWJ9oY/hqdefault.jpg" alt="Link al video de Youtube">
+  <a href="https://www.youtube.com/watch?v=48dcaGfubcI">
+    <img src="https://img.youtube.com/vi/48dcaGfubcI/hqdefault.jpg" alt="Link al video de Youtube">
   </a>
-</p> -->
+</p>
+
+---
 
 [Foundry](https://github.com/foundry-rs/foundry) es un entorno de desarrollo **Blockchain** nuevo que nos proporciona un **kit de herramientas** para crear e implementar _Smart Contracts_ de una forma muy sencilla desde la línea de comandos. Es muy parecido a otras herramientas que hemos visto como [Truffle Ganache](https://archive.trufflesuite.com/) y [HardHat](https://hardhat.org/).
 
@@ -116,7 +118,7 @@ Vamos a guardar la dirección del contrato en una variable de entorno también:
 export COUNTER=0x5fbdb2315678afecb367f032d93f642f64180aa3
 ```
 
-### _Cast_
+### Cast
 
 Para interactuar con nuestro contrato vamos a usar cast. Primero vamos a consultar que número hay establecido llamando a la variable **number** ya que es una variable **pública**:
 
@@ -179,7 +181,7 @@ $ cast call $COUNTER "number()"
 0x0000000000000000000000000000000000000000000000000000000000000009
 ```
 
-## Token _ERC-20_
+## Token ERC-20
 
 Vamos a programar un nuevo contrato inteligente. Para ello, lo primero que vamos a hacer es, instalar el paquete de [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master) para tener acceso a los contratos:
 
@@ -244,7 +246,7 @@ Vamos a guardar la **dirección** del contrato para usarlo ahora:
 export TOKEN=0x5FbDB2315678afecb367f032d93F642f64180aa3
 ```
 
-### _Cast_
+### Cast
 
 Tal y como hicimos en el otro vídeo, vamos a ver el _supply_ de nuestro _token_:
 

@@ -68,4 +68,8 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=dLhxR6pMkdo)
 
+- ##### [🛠️ ¿Qué es FOUNDRY? | Cómo usar FORGE, CAST y ANVIL](/foundry/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=48dcaGfubcI)
+
 ---

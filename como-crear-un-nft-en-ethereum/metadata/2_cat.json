@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Animal"
+    }
+  ],
+  "description": "Cute.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbFwRWyP64T7AUWRr4fexshK5pAh7ujEVoNLv1FrNcfJg",
+  "name": "Cat"
+}

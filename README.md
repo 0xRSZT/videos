@@ -32,9 +32,9 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=VRQEfDNXTqI)
 
-- ##### [🛠️ ¿Qué es FOUNDRY? | Cómo usar FORGE, CAST y ANVIL](/foundry/)
+- ##### [🖼️ Cómo CREAR TU PROPIA Colección de NFTs en Ethereum DESDE CERO!](/como-crear-un-nft-en-ethereum/)
 
-  - [📺 Vídeo](https://www.youtube.com/watch?v=)
+  - [📺 Vídeo](https://www.youtube.com/watch?v=XWN6_ue-PBs)
 
 ### [🧑‍🚀 ETHERNAUT](/ethernaut/)
 

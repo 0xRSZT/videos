@@ -1,0 +1,15 @@
+{
+  "name": "Ghost",
+  "symbol": "GHOST",
+  "description": "A ghost is the soul or spirit of a dead person or non-human animal that is believed to be able to appear to the living.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmPQQ8GgR98PzY1zjHKVfFtuVLnUbZJHA2bGrZGL72tvK8",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/QmPQQ8GgR98PzY1zjHKVfFtuVLnUbZJHA2bGrZGL72tvK8",
+        "type": "image/png"
+      }
+    ]
+  }
+}

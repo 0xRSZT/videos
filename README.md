@@ -8,6 +8,10 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=XVXRqEdtchs)
 
+- ##### [🐱 Crea tu PROPIA MEME COIN en SOLANA | SPL-TOKEN con METABOSS](/crea-tu-propia-meme-coin-en-solana/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=xukTkSUz_H8)
+
 ---
 
 ## [🔷 ETHEREUM](https://www.youtube.com/playlist?list=PLJi6QLnj65CycC2jxQDn7ilxSo5qGF3N1)

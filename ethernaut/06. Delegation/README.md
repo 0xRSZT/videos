@@ -1,12 +1,12 @@
 # Delegation
 
-<!-- > Estas son las instrucciones en las que se basan este vídeo:
+> Estas son las instrucciones en las que se basan este vídeo:
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=808VLPbSXI0">
-    <img src="https://img.youtube.com/vi/808VLPbSXI0/hqdefault.jpg" alt="Link al video de Youtube">
+  <a href="https://www.youtube.com/watch?v=X1VWUQW675w">
+    <img src="https://img.youtube.com/vi/X1VWUQW675w/hqdefault.jpg" alt="Link al video de Youtube">
   </a>
-</p> -->
+</p>
 
 Nuestro objetivo en este nivel es convertirnos en el **owner** de la instancia que nos dan. Nos dan varias pistas:
 

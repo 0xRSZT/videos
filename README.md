@@ -68,6 +68,10 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=808VLPbSXI0)
 
+- ##### [Delegation - ETHERNAUT NIVEL 6 | HACKING DE SMART CONTRACTS EN ETHEREUM](/ethernaut/06.%20Delegation/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=808VLPbSXI0)
+
 ---
 
 ## [⛓️ DESARROLLO BLOCKCHAIN](https://www.youtube.com/playlist?list=PLJi6QLnj65Cz1a8XZ_N3XcUBZZagNNqku)

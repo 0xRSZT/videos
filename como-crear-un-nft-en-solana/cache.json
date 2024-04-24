@@ -1,0 +1,50 @@
+{
+  "program": {
+    "candyMachine": "8e2L7qjeaoAa2kVNd2essdnoD84EdUmoWbLnViubxCip",
+    "candyGuard": "",
+    "candyMachineCreator": "FEC2iLgCQACNq9joqStfT3pkDawB1wKcanoSWoz3PhNt",
+    "collectionMint": "C7fkm76B696nD1dZSa3K9WRXtjn7Vii7m2g4CjWxNM8Z"
+  },
+  "items": {
+    "-1": {
+      "name": "Pixels",
+      "image_hash": "cbd66cf5ef08e29bd6609574400ef2cea23dff6fd67c1b084de5dccccb89e130",
+      "image_link": "https://arweave.net/Aj2d5cCLxRg05rDhktOhl8jujjzmiK68XhtsDdQ0Nbo?ext=png",
+      "metadata_hash": "bdcfc0fb9c3a18860e7199b694e2c536cedef00b58831db4993e081bb4ee3176",
+      "metadata_link": "https://arweave.net/YVyR0RjH2O-pomgsf2eE1RO_0KNKPoni5r33kQnWlTA",
+      "onChain": true
+    },
+    "0": {
+      "name": "Camera",
+      "image_hash": "6bdc96f39d12c6076ca5620de9e6a179120479ae972c3924d69f36c1b86a5563",
+      "image_link": "https://arweave.net/x55WLFUo45mFAb-RhhF-rSkpZYm4tazZAceLczRs7zA?ext=png",
+      "metadata_hash": "e54e7fc7f0ab25512108dc9ae94c96a75860e91fa112c8a5d8e3ec096d10a99e",
+      "metadata_link": "https://arweave.net/Wqq_7nhA6d1u22PoIVe2_-j4dz47RbRuOsz8k8kgl5o",
+      "onChain": true
+    },
+    "1": {
+      "name": "Computer",
+      "image_hash": "45f9e8c22f662e5c77f46c289beb6d46917921c6d4ddeab35a316f42d214672f",
+      "image_link": "https://arweave.net/HGLAcIMj-IjODwLsf9Vru92f8ll99IyWXTozdJSpeZA?ext=png",
+      "metadata_hash": "5f9394c1e932a9a118374f412e9e31342ac8afd3a9f633806e300b786bf85d4c",
+      "metadata_link": "https://arweave.net/jWhw3P9z-OoyFfXHSLUzhddPpaqKD522I-50EuSecuk",
+      "onChain": true
+    },
+    "2": {
+      "name": "Headphones",
+      "image_hash": "20baa7c55952c80ca5122a09f873cbf874ff329264525056e004d518156247c3",
+      "image_link": "https://arweave.net/_I6SZxFvCtwF6SOxBncJ8sqJweDprF2rmpBfpomGC04?ext=png",
+      "metadata_hash": "6931fac97bbd5be1434658d30b05b4fbff95f087d807a1281679fdf8ad275fcd",
+      "metadata_link": "https://arweave.net/mEaK0Ytr-o_pOK53bmv38pk5oguYrJi7U2_wLmBo-Uk",
+      "onChain": true
+    },
+    "3": {
+      "name": "CD",
+      "image_hash": "5eb344545abb060fbbc0340b4fd5db87475d47f893f2a1b860bd4ee870f053b4",
+      "image_link": "https://arweave.net/5StWpY0kSFGBYHKnb348_FTWafABbQFIcVBZ-JyLRS0?ext=png",
+      "metadata_hash": "3fae56768c989a5e8c60c8493ee3f47f22e5ee0a83be38945b547b4e65916ebe",
+      "metadata_link": "https://arweave.net/IK7bZ4ENa86X6F4rOTMtWH1QhSLSkIm6xYkqoxOL-zY",
+      "onChain": true
+    }
+  }
+}

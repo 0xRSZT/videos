@@ -1,0 +1,33 @@
+{
+  "name": "Headphones",
+  "symbol": "PXL",
+  "description": "A pair of small loudspeaker drivers worn on or around the head over a user's ears.",
+  "image": "2.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Speakers"
+    },
+    {
+      "trait_type": "Type",
+      "value": "In-ear"
+    },
+    {
+      "trait_type": "Connectivity",
+      "value": "Bluetooth"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "144 Hz"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

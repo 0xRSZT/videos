@@ -1,0 +1,33 @@
+{
+  "name": "Computer",
+  "symbol": "PXL",
+  "description": "Machine that can be programmed to automatically carry out sequences of arithmetic or logical operations.",
+  "image": "1.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "IT"
+    },
+    {
+      "trait_type": "RAM",
+      "value": "1 GB"
+    },
+    {
+      "trait_type": "CPU",
+      "value": "Intel N100"
+    },
+    {
+      "trait_type": "Disk",
+      "value": "256 HDD"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

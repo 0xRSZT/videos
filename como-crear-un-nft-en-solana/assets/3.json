@@ -1,0 +1,33 @@
+{
+  "name": "CD",
+  "symbol": "PXL",
+  "description": "A digital optical disc data storage format that was co-developed by Philips and Sony to store and play digital audio recordings.",
+  "image": "3.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Music"
+    },
+    {
+      "trait_type": "File System",
+      "value": "CD-RW"
+    },
+    {
+      "trait_type": "Channels",
+      "value": "2"
+    },
+    {
+      "trait_type": "Storage capacity",
+      "value": "700 MB"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

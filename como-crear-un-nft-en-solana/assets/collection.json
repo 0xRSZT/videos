@@ -1,0 +1,21 @@
+{
+  "name": "Pixels",
+  "symbol": "PXL",
+  "description": "The smallest addressable element in a raster image, or the smallest addressable element in a dot matrix display device.",
+  "image": "collection.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Animal"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

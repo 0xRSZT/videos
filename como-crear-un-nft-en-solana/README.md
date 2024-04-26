@@ -1,12 +1,12 @@
 # 🎭 Crea una COLECCIÓN de NFTs en SOLANA desde CERO! | METAPLEX NFT
 
-<!-- > Estas son las instrucciones en las que se basan este vídeo:
+> Estas son las instrucciones en las que se basan este vídeo:
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=XWN6_ue-PBs">
-    <img src="https://img.youtube.com/vi/XWN6_ue-PBs/hqdefault.jpg" alt="Link al video de Youtube">
+  <a href="https://www.youtube.com/watch?v=QIbx3yo4lGk">
+    <img src="https://img.youtube.com/vi/QIbx3yo4lGk/hqdefault.jpg" alt="Link al video de Youtube">
   </a>
-</p> -->
+</p>
 
 Vamos crear una colección de _NFTs_ en la red de [Solana](https://solana.com/es) desde cero!
 

@@ -14,7 +14,7 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
 - ##### [🎭 Crea una COLECCIÓN de NFTs en SOLANA desde CERO! | METAPLEX NFT](/como-crear-un-nft-en-solana/)
 
-  - [📺 Vídeo](https://www.youtube.com/watch?v=)
+  - [📺 Vídeo](https://www.youtube.com/watch?v=QIbx3yo4lGk)
 
 ---
 

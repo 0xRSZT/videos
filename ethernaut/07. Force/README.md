@@ -1,12 +1,12 @@
 # Force
 
-<!-- > Estas son las instrucciones en las que se basan este vídeo:
+> Estas son las instrucciones en las que se basan este vídeo:
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=X1VWUQW675w">
-    <img src="https://img.youtube.com/vi/X1VWUQW675w/hqdefault.jpg" alt="Link al video de Youtube">
+  <a href="https://www.youtube.com/watch?v=R0k4i9VAqf8">
+    <img src="https://img.youtube.com/vi/R0k4i9VAqf8/hqdefault.jpg" alt="Link al video de Youtube">
   </a>
-</p> -->
+</p>
 
 Este nivel nos dice que **algunos contratos simplemente no aceptarán nuestro dinero**. El objetivo de este nivel es hacer que el b**alance del contrato sea mayor a cero**.
 

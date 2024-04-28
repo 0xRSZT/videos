@@ -78,7 +78,7 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
 - ##### [Force - ETHERNAUT NIVEL 7 | HACKING DE SMART CONTRACTS EN ETHEREUM](/ethernaut/07.%20Force/)
 
-  - [📺 Vídeo](https://www.youtube.com/watch?v=)
+  - [📺 Vídeo](https://www.youtube.com/watch?v=R0k4i9VAqf8)
 
 - ##### [Vault - ETHERNAUT NIVEL 8 | HACKING DE SMART CONTRACTS EN ETHEREUM](/ethernaut/07.%20Force/)
 

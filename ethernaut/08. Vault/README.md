@@ -1,12 +1,12 @@
 # Vault
 
-<!-- > Estas son las instrucciones en las que se basan este vídeo:
+> Estas son las instrucciones en las que se basan este vídeo:
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=X1VWUQW675w">
-    <img src="https://img.youtube.com/vi/X1VWUQW675w/hqdefault.jpg" alt="Link al video de Youtube">
+  <a href="https://www.youtube.com/watch?v=QeXQhAU5TnM">
+    <img src="https://img.youtube.com/vi/QeXQhAU5TnM/hqdefault.jpg" alt="Link al video de Youtube">
   </a>
-</p> -->
+</p>
 
 En este nivel lo único que tenemos que hacer es desbloquear la caja fuerte.
 
@@ -78,4 +78,4 @@ false
 
 Como ya no está bloqueada, vamos a [entregar](https://sepolia.etherscan.io/tx/0x4fb800c8aeb8c4d25ca349a241d480881ec9b08fe52d8eceeef6391de91e99c7) este nivel!
 
-_Ethernaut_, nos recuerda que marcando una variable como `private` s**olo previene que otros contratos accedan a ella, todas las variables sean lo que sean son accesibles públicamente**.
+_Ethernaut_, nos recuerda que marcando una variable como `private` **solo previene que otros contratos accedan a ella, todas las variables sean lo que sean son accesibles públicamente**.

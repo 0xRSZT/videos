@@ -48,7 +48,7 @@ undefined
 
 Vamos a ver que hay dentro de esta variable:
 
-```json
+```js
 > Web3
 [class Web3 extends Web3Context] {
   version: '4.8.0',

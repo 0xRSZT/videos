@@ -100,4 +100,8 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=48dcaGfubcI)
 
+- ##### [🗺️ web3.js: ¿QUÉ ES Y CÓMO USAR ESTA LIBRERÍA? | DESARROLLO BLOCKCHAIN](/web3js/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=_IBMr2kJNdM)
+
 ---

@@ -1,4 +1,4 @@
-## 🐱 Crea tu PROPIA MEME COIN en SOLANA | SPL-TOKEN con METABOSS
+# 🐱 Crea tu PROPIA MEME COIN en SOLANA | SPL-TOKEN con METABOSS
 
 > Estas son las instrucciones en las que se basan este vídeo:
 

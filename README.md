@@ -104,4 +104,8 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=_IBMr2kJNdM)
 
+- ##### [🏷️ CÓMO USAR ETHERS.JS Para El DESARROLLO BLOCKCHAIN](/ethersjs/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=MyYzuiiIzSg)
+
 ---

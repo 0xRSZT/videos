@@ -84,6 +84,10 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=QeXQhAU5TnM)
 
+- ##### [King - ETHERNAUT NIVEL 9 | HACKING DE SMART CONTRACTS EN ETHEREUM](/ethernaut/09.%20King/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=HjWKmr-Lr9s)
+
 ---
 
 ## [⛓️ DESARROLLO BLOCKCHAIN](https://www.youtube.com/playlist?list=PLJi6QLnj65Cz1a8XZ_N3XcUBZZagNNqku)

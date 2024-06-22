@@ -104,12 +104,16 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=48dcaGfubcI)
 
-- ##### [🗺️ web3.js: ¿QUÉ ES Y CÓMO USAR ESTA LIBRERÍA? | DESARROLLO BLOCKCHAIN](/web3js/)
+- ##### [🗺️ web3.js: ¿QUÉ ES Y CÓMO USAR ESTA LIBRERÍA?](/web3js/)
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=_IBMr2kJNdM)
 
 - ##### [🏷️ CÓMO USAR ETHERS.JS Para El DESARROLLO BLOCKCHAIN](/ethersjs/)
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=MyYzuiiIzSg)
+
+- ##### [🛹 ¿CÓMO SE CREA UNA DAPP?](/ethereum-boilerplate/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=ZlXjuUdBLaA)
 
 ---

@@ -88,6 +88,10 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
   - [📺 Vídeo](https://www.youtube.com/watch?v=HjWKmr-Lr9s)
 
+- ##### [Re-entrancy - ETHERNAUT NIVEL 10 | HACKING DE SMART CONTRACTS EN ETHEREUM](/ethernaut/10.%20Re-Entrancy/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=zfe-E7wyX-E)
+
 ---
 
 ## [⛓️ DESARROLLO BLOCKCHAIN](https://www.youtube.com/playlist?list=PLJi6QLnj65Cz1a8XZ_N3XcUBZZagNNqku)

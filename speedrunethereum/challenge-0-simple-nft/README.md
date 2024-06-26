@@ -1,12 +1,12 @@
 # 🚩 Challenge #0: 🎟 Simple NFT Example
 
-<!-- > Estas son las instrucciones en las que se basan este vídeo:
+> Estas son las instrucciones en las que se basan este vídeo:
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=GPtu2sfh1Q4">
-    <img src="https://img.youtube.com/vi/GPtu2sfh1Q4/hqdefault.jpg" alt="Link al video de Youtube">
+  <a href="https://www.youtube.com/watch?v=_T3Kg5N71JA">
+    <img src="https://img.youtube.com/vi/_T3Kg5N71JA/hqdefault.jpg" alt="Link al video de Youtube">
   </a>
-</p> -->
+</p>
 
 vamos a comenzar la serie dónde vamos a completar cada desafío que nos propone **Ethereum** en forma de [SpeedRun](https://speedrunethereum.com/).
 

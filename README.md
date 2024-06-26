@@ -98,6 +98,16 @@ Aquí encontrarás las instrucciones, comandos y código usado en los videos de 
 
 ---
 
+### [🚅 SpeedRun Ethereum](/speedrunethereum/)
+
+- [⚜️ Lista de reproducción](https://www.youtube.com/playlist?list=PLJi6QLnj65Cx-PpdjekkJVBtPMFjjuvOH)
+
+- ##### [Creando una dAPP para Mintear NFT’s](/speedrunethereum/challenge-0-simple-nft/)
+
+  - [📺 Vídeo](https://www.youtube.com/watch?v=_T3Kg5N71JA)
+
+---
+
 ## [⛓️ DESARROLLO BLOCKCHAIN](https://www.youtube.com/playlist?list=PLJi6QLnj65Cz1a8XZ_N3XcUBZZagNNqku)
 
 - ##### [💥¡Necesitas Conocer HYPERLEDGER! | BLOCKCHAIN PARA EMPRESAS](/hyperledger/)

@@ -287,4 +287,4 @@ Vamos a testear su funcionamiento de nuevo, para ello nos conectamos con nuestra
 
 Por último, **también podemos ver esta colección desde las Testnets de** [OpenSea](https://testnets.opensea.io) si nos conectamos con la misma `wallet` con la que hemos minteado los **NFTs**. Aquí podemos listarlos para la venta o transferirlos…
 
-Para entregar este nivel, **tenemos que introducir [la dirección URL de nuestra web en Vercel](https://speedrun-1.vercel.app/) y [la dirección del contrato que hemos desplegado en el explorador de bloques de Sepolia](https://sepolia.etherscan.io/address/0xec1c53dcd683cd091435cc9ddfb805c9e74d745c)**.
+Para entregar este nivel, **tenemos que introducir [la dirección URL de nuestra web en Vercel](https://speedrun-ethereum-0.vercel.app/) y [la dirección del contrato que hemos desplegado en el explorador de bloques de Sepolia](https://sepolia.etherscan.io/address/0xec1c53dcd683cd091435cc9ddfb805c9e74d745c)**.
